@@ -1,0 +1,5 @@
+{
+  "name": "LearnFlow AI",
+  "description": "A smart course planner that converts any syllabus into a tailored, week-by-week learning schedule using Google Gemini.",
+  "requestFramePermissions": []
+}
